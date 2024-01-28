@@ -6,6 +6,10 @@ header{
 	margin: auto;
 	background-color: white;
 	border-radius: 20px;
+	width: 632px;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
 }
 .logo{
 	font-size: large;

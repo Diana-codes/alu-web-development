@@ -10,3 +10,6 @@ What is an element / tag
 What is an attribute
 What the purpose of each HTML tag
 PREVIEW OF THE PLATFORM
+
+
+![readme-image](https://github.com/Diana-codes/alu-web-development/assets/127595256/47b235af-b7ff-41b2-bdec-872ca23aaeee)
